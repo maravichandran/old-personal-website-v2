@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Maya Ravichandran
+tagline:          'Personal Website'
+description:      'Computer Science Student'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Maya Ravichandran'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# libraries
+gems:             [jekyll-paginate, jekyll-gist]
