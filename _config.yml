@@ -9,12 +9,12 @@ permalink:        pretty
 title:            Maya Ravichandran
 tagline:          'Personal Website'
 description:      'Computer Science Student'
-url:              http://hyde.getpoole.com
+url:              https://maravichandran.github.io
 baseurl:          /
 
 author:
   name:           'Maya Ravichandran'
-  url:            https://twitter.com/mdo
+  url:            https://www.linkedin.com/in/maya-ravichandran/
 
 paginate:         5
 
