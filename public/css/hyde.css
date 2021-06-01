@@ -101,10 +101,10 @@ a.sidebar-nav-item:focus {
 
 /* Sidebar profile photo */
 .sidebar-profile-photo {
-  border-radius: 50%;
+  border-radius: 40%;
   max-width: 65%;  
   height: auto;  
-  margin: auto;
+/*  margin: auto;*/
 }
 
 /* Sticky sidebar
