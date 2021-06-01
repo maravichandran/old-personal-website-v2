@@ -15,3 +15,15 @@ github:
   href: 'https://github.com/'
   title: 'GitHub'
   fa-icon: 'fa-github-square'
+
+linkedin:
+  id: 'maya-ravichandran'
+  href: 'https://www.linkedin.com/in/'
+  title: 'LinkedIn'
+  fa-icon: 'fa-linkedin-square'
+
+resume:
+  id: 'Maya_Ravichandran_Resume.pdf'
+  href: 'https://maravichandran.github.io/'
+  title: 'Resume'
+  fa-icon: 'fa-download'
