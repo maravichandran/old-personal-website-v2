@@ -2,7 +2,7 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
-        <a href="{{ site.baseurl }}">
+        <a href="{{ site.url }}">
           {{ site.title }}
         </a>
       </h1>
@@ -35,7 +35,8 @@
         {% for entry in sm %}
             {% assign key = entry | first %}
             {% if sm[key].id %}
-                <a href="{{ sm[key].href }}{{ sm[key].id }}" target="_blank" title="{{ sm[key].title }}"><i class="fa {{ sm[key].fa-icon }}"></i></a>
+                <a href="{{ sm[key].href }}{{ sm[key].id }}" target="_blank" title="{{ sm[key].title }}"><i class="{{ sm[key].fa-icon }}"></i></a>
+                <!-- <i class="fa {{ sm[key].fa-icon }}"></i> -->
             {% endif %}
         {% endfor %}
     </div>

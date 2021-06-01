@@ -20,7 +20,7 @@ linkedin:
   id: 'maya-ravichandran'
   href: 'https://www.linkedin.com/in/'
   title: 'LinkedIn'
-  fa-icon: 'fa-linkedin-square'
+  fa-icon: 'fab fa-linkedin'
 
 resume:
   id: 'Maya_Ravichandran_Resume.pdf'
