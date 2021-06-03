@@ -2,9 +2,7 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
-        <a href="{{ site.url }}">
           {{ site.title }}
-        </a>
       </h1>
       <p class="lead">{{ site.description }}</p>
     </div>
@@ -17,7 +15,7 @@
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
-      {% assign pages_list = site.pages %}
+      {% assign pages_list = site.pages | sort:"order" %}
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" or node.layout == "home"%}
@@ -28,7 +26,7 @@
 
     </nav>
 
-    <!-- Social media icons -->
+    <!-- Social media + resume icons -->
     {% if site.data.social-media %}
     <div id="social-media">
         {% assign sm = site.data.social-media %}
@@ -36,7 +34,6 @@
             {% assign key = entry | first %}
             {% if sm[key].id %}
                 <a href="{{ sm[key].href }}{{ sm[key].id }}" target="_blank" title="{{ sm[key].title }}"><i class="{{ sm[key].fa-icon }}"></i></a>
-                <!-- <i class="fa {{ sm[key].fa-icon }}"></i> -->
             {% endif %}
         {% endfor %}
     </div>

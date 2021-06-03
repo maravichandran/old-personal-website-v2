@@ -2,19 +2,19 @@ email:
   id: 'mr34@live.com'
   href: 'mailto:'
   title: 'Email'
-  fa-icon: 'fa-envelope-square'
+  fa-icon: 'fas fa-envelope'
 
 twitter:
   id: 'maya_rav'
   href: 'https://www.twitter.com/'
   title: 'Twitter'
-  fa-icon: 'fa-twitter-square'
+  fa-icon: 'fab fa-twitter'
 
 github:
   id: 'maravichandran'
   href: 'https://github.com/'
   title: 'GitHub'
-  fa-icon: 'fa-github-square'
+  fa-icon: 'fab fa-github'
 
 linkedin:
   id: 'maya-ravichandran'
@@ -26,4 +26,4 @@ resume:
   id: 'Maya_Ravichandran_Resume.pdf'
   href: 'https://maravichandran.github.io/'
   title: 'Resume'
-  fa-icon: 'fa-download'
+  fa-icon: 'fas fa-file-pdf'
