@@ -17,7 +17,7 @@ From 2018-2021, I was President of [Rutgers Venture Capital Club](https://www.in
 
 ### Academic Advocacy at Rutgers
 From 2019-2021, I was elected to serve as the Academic Affairs chair in the Rutgers Student Government ([RUSA](https://rusa.rutgers.edu/)), representing 36,000 Rutgers students. I represented approximately 20,000 School of Arts and Sciences students as an elected Senator in the Rutgers University Senate, a governing body of administrators, faculty, staff, students, and alumni. 
-•	Led committee in creating survey, garnering ~13,000 student responses, and presenting findings to administration, resulting in reinstatement of pass/no-credit policy in response to COVID-19 pandemic for Fall 2020 – Spring 2021 semesters for all ~50,000 undergraduates at Rutgers-Newark, New Brunswick, and Camden 
+I led the Academic Affairs committee in creating a survey on student experiences during COVID-18, garnering ~13,000 student responses, and presenting findings to administration, resulting in the [reinstatement of pass/no-credit policy](https://dailytargum.com/article/2020/11/rutgers-announces-pass-no-credit-optional-grading-system-for-fall-semester) in response to COVID-19 pandemic for the Fall 2020 – Spring 2021 semesters for all ~50,000 undergraduates at Rutgers-Newark, New Brunswick, and Camden. 
 
 
 {% comment %} 
