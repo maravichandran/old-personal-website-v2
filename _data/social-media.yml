@@ -4,12 +4,6 @@ email:
   title: 'Email'
   fa-icon: 'fas fa-envelope'
 
-twitter:
-  id: 'maya_rav'
-  href: 'https://www.twitter.com/'
-  title: 'Twitter'
-  fa-icon: 'fab fa-twitter'
-
 github:
   id: 'maravichandran'
   href: 'https://github.com/'
