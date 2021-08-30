@@ -4,11 +4,9 @@ title: Projects
 order: 3
 ---
 
-{% comment %} 
 ## Computer Science
 
 ### CNNs and Domain Adaptation for Diagnosis of COVID-19 Chest X-Rays
-{% endcomment %}
 
 ## Leadership/Service
 
@@ -27,5 +25,3 @@ Throughout my college career, I was heavily involved with the computer science c
 I also spearheaded a new 1:1 mentorship program, with over 100 mentees enrolled, to match CS upperclassmen with underclassmen for holistic growth in academics and career/personal development. Approximately 70% of mentor-mentee pairs reported that they communicated at least once per week during the semester. I took on mentees of my own, with a focus on supporting women in CS.
 
 In addition, I created the curriculum for and served as the sole instructor for an accredited Rutgers course, a [First-Year Interest Group Seminar](https://careers.rutgers.edu/about-us/resources-services/first-year-interest-group-seminars-figs) course on Exploring Computer Science, to 24 first-year students. Lesson topics included data science, encryption, machine learning and diversity, and CS for social good. 
-
-I also tutored computer science coursework on behalf of the CS department. 
