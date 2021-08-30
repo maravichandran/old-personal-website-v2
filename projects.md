@@ -3,10 +3,11 @@ layout: page
 title: Projects
 order: 3
 ---
-
+{% comment %} 
 ## Computer Science
 
 ### CNNs and Domain Adaptation for Diagnosis of COVID-19 Chest X-Rays
+{% endcomment %}
 
 ## Leadership/Service
 
