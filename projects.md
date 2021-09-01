@@ -6,7 +6,7 @@ order: 3
 ## Computer Science
 
 ### Domain Adaptation of CNNs for Diagnosis of COVID-19 Chest X-Rays
-Domain adaptation involves using a machine learning model trained on one domain to make predictions on data from another domain. I worked on a [project](https://github.com/maravichandran/covid-xray-DANN) to use domain adaptation to apply a model trained on viral pneumonia chest X-rays to diagnosis of COVID-19 chest X-rays, utilizing Python, Pytorch, and convolutional neural networks. While the baseline model trained on the viral pneumonia dataset achieved a 49.50% accuracy, the domain adaptation model using domain-adversarial neural networks achieved a 62.25% accuracy. This is useful for situations requiring unsupervised learning, which may arise during a novel disease like COVID-19.
+Domain adaptation involves using a machine learning model trained on one domain to make predictions on data from another domain. I worked on a project ([GitHub repo](https://github.com/maravichandran/covid-xray-DANN)) to use domain adaptation to apply a model trained on viral pneumonia chest X-rays to diagnosis of COVID-19 chest X-rays, utilizing Python, Pytorch, and convolutional neural networks. While the baseline model trained on the viral pneumonia dataset achieved a 49.50% accuracy, the domain adaptation model using domain-adversarial neural networks (DANN) achieved a 62.25% accuracy. This is useful for situations requiring unsupervised learning, which may arise during a novel disease like COVID-19.
 
 
 ## Leadership/Service
