@@ -5,6 +5,10 @@ order: 3
 ---
 ## Computer Science
 
+### Reproducing and Extending GraphRNN: Graph Recurrent Neural Networks for Generating Graphs
+I worked on a group project to create code to reproduce the GraphRNN model, achieving comparable performance in generating graphs on both qualitative and quantitative metrics. We also extended the paper by assessing model performance on additional graph similarity metrics, confirming the utility of the breadth-first search traversal with an ablation study, extending GraphRNN to directed graphs, and implementing a novel extension to generate directed acyclic graphs. The code for this project is on [GitHub](https://github.com/mark-koch/graph-rnn). 
+
+
 ### Domain Adaptation of CNNs for Diagnosis of COVID-19 Chest X-Rays
 Domain adaptation involves using a machine learning model trained on one domain to make predictions on data from another domain. I worked on a project ([GitHub repo](https://github.com/maravichandran/covid-xray-DANN)) to use domain adaptation to apply a model trained on viral pneumonia chest X-rays to diagnosis of COVID-19 chest X-rays, utilizing Python, PyTorch, and convolutional neural networks. While the baseline model trained on the viral pneumonia dataset achieved a 49.50% accuracy, the domain adaptation model using domain-adversarial neural networks (DANN) achieved a 62.25% accuracy. This is useful for situations requiring unsupervised learning, which may arise during a novel disease like COVID-19.
 
@@ -12,7 +16,7 @@ Domain adaptation involves using a machine learning model trained on one domain 
 ## Leadership/Service
 
 ### Building Rutgers Entrepreneurship Community
-From 2018-2021, I was President of [Rutgers Venture Capital Club](https://rutgersvcc.com). I led our team in recruiting over 25 people to the club board and launching the Rutgers Venture Cup, a semester-long venture investment portfolio competition with professional VC/LP judges. I also led the execution of a VC and entrepreneur speaker series, educational presentations, and startup pitch competitions. In addition, we laid the foundations for the Venture Analyst Program, in which students can contribute to investment decisions of a  $100,000 venture grant program for student startups, in partnership with Rutgers Business School's [RSVP](https://www.business.rutgers.edu/road-silicon-valley). We also we placed students into VC internships and connected VC investors and student founders. 
+From 2018-2021, I was President of Rutgers Venture Capital Club. I led our team in recruiting over 25 people to the club board and launching the Rutgers Venture Cup, a semester-long venture investment portfolio competition with professional VC/LP judges. I also led the execution of a VC and entrepreneur speaker series, educational presentations, and startup pitch competitions. 
 
 ### Academic Advocacy at Rutgers
 From 2019-2021, I was elected to serve as the Academic Affairs chair in the Rutgers Student Government ([RUSA](https://rusa.rutgers.edu/)), representing 36,000 Rutgers students. I represented approximately 20,000 School of Arts and Sciences students as an elected Senator in the Rutgers University Senate, a governing body of administrators, faculty, staff, students, and alumni. 
