@@ -6,7 +6,7 @@ order: 3
 ## Computer Science
 
 ### Reproducing and Extending GraphRNN: Graph Recurrent Neural Networks for Generating Graphs
-I worked on a group project to create code to reproduce the [GraphRNN](https://arxiv.org/abs/1802.08773) model, achieving comparable performance in generating graphs on both qualitative and quantitative metrics. We also extended the paper by assessing model performance on additional graph similarity metrics, confirming the utility of the breadth-first search traversal with an ablation study, extending GraphRNN to directed graphs, and implementing a novel extension to generate directed acyclic graphs. The code for this project is on [GitHub](https://github.com/mark-koch/graph-rnn). 
+I worked on a group project to create code to reproduce the [GraphRNN](https://arxiv.org/abs/1802.08773) model, achieving comparable performance in generating graphs on both qualitative and quantitative metrics. We also extended the paper by assessing model performance on additional graph similarity metrics, confirming the utility of the breadth-first search traversal with an ablation study, extending GraphRNN to directed graphs, and implementing a novel extension to generate directed acyclic graphs. The code for this project is on [GitHub](https://github.com/maravichandran/GraphRNN). 
 
 
 ### Domain Adaptation of CNNs for Diagnosis of COVID-19 Chest X-Rays
