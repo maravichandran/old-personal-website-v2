@@ -8,7 +8,7 @@ order: 3
 ### Reproducing and Extending GraphRNN: Graph Recurrent Neural Networks for Generating Graphs
 I worked on a group project to create code to reproduce the [GraphRNN](https://arxiv.org/abs/1802.08773) model, achieving comparable performance in generating graphs on both qualitative and quantitative metrics. We also extended the paper by assessing model performance on additional graph similarity metrics, confirming the utility of the breadth-first search traversal with an ablation study, extending GraphRNN to directed graphs, and implementing a novel extension to generate directed acyclic graphs.
 
-[Code on GitHub](https://github.com/maravichandran/GraphRNN). 
+[Code on GitHub](https://github.com/maravichandran/GraphRNN) 
 
 ### Domain Adaptation of CNNs for Diagnosis of COVID-19 Chest X-Rays
 Domain adaptation involves using a machine learning model trained on one domain to make predictions on data from another domain. I worked on a project to use domain adaptation to apply a model trained on viral pneumonia chest X-rays to diagnosis of COVID-19 chest X-rays, utilizing Python, PyTorch, and convolutional neural networks. While the baseline model trained on the viral pneumonia dataset achieved a 49.50% accuracy, the domain adaptation model using domain-adversarial neural networks (DANN) achieved a 62.25% accuracy. This is useful for situations requiring unsupervised learning, which may arise during a novel disease like COVID-19.
