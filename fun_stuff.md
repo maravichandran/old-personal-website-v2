@@ -13,4 +13,4 @@ I love wildlife and have been an avid birder ever since I spotted a bird field g
 I am a huge fan of classical music. My favorite composer is Bach. I have played the violin for many years and have recently started composing music, which you can listen to [here](https://www.instagram.com/music.with.maya/).
 
 ## Reading
-I enjoy reading and mostly read classic and contemproary novels. Here is a [list of my recent reading](https://www.goodreads.com/user/show/127838671-maya-ravichandran). 
+I enjoy reading and mostly read classic and contemporary novels. Here is a [list of my recent reading](https://www.goodreads.com/user/show/127838671-maya-ravichandran). 
