@@ -9,6 +9,7 @@ order: 3
 I worked on a group project to create code to reproduce the [GraphRNN](https://arxiv.org/abs/1802.08773) model, achieving comparable performance in generating graphs on both qualitative and quantitative metrics. We also extended the paper by assessing model performance on additional graph similarity metrics, confirming the utility of the breadth-first search traversal with an ablation study, extending GraphRNN to directed graphs, and implementing a novel method to generate directed acyclic graphs.
 
 [Project report on arXiv](https://arxiv.org/abs/2307.14109)
+
 [Code on GitHub](https://github.com/maravichandran/GraphRNN) 
 
 ### Domain Adaptation of CNNs for Diagnosis of COVID-19 Chest X-Rays
