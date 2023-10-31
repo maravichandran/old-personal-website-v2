@@ -6,9 +6,11 @@ order: 3
 ## Computer Science
 
 ### GraphRNN Revisited: An Ablation Study and Extensions for Directed Acyclic Graphs
-I worked on a group project to create code to reproduce the [GraphRNN](https://arxiv.org/abs/1802.08773) model, achieving comparable performance in generating graphs on both qualitative and quantitative metrics. We also extended the paper by assessing model performance on additional graph similarity metrics, confirming the utility of the breadth-first search traversal with an ablation study, extending GraphRNN to directed graphs, and implementing a novel method to generate directed acyclic graphs.
+This project involved reproducing the [GraphRNN](https://arxiv.org/abs/1802.08773) model, achieving comparable performance in generating graphs on both qualitative and quantitative metrics. We also extended the paper by assessing model performance on additional graph similarity metrics, confirming the utility of the breadth-first search traversal with an ablation study, extending GraphRNN to directed graphs, and implementing a novel method to generate directed acyclic graphs.
 
-[Project report on arXiv](https://arxiv.org/abs/2307.14109)
+A paper on this project has been accepted to the NeurIPS 2023: [New Frontiers in Graph Learning workshop](https://glfrontiers.github.io/). 
+
+[Paper on arXiv](https://arxiv.org/abs/2307.14109)
 
 [Code on GitHub](https://github.com/maravichandran/GraphRNN) 
 
